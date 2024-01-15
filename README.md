@@ -1,44 +1,32 @@
-The qp project 2.0 - a deck editor and card catalog for quantum protocol 
+<p style="filter: drop-shadow(2px 2px 12px #0005)" align="center">
+	<img src="https://i.ibb.co/BPrMQvR/logo.png">
+</p>
+
+# The QP Project 2.0
+#### A Deck editor and Card catalog for Quantum Protocol
+
+## Features: 
+1. All deck codes generated on the website is fully usable in game 
+2. The deck editor supports local save and server save, for when you just want to ediit without getting a deck code 
+3. Fully functional card and imagge catalog, sort and filterable b different categories 
+4. A creit section 
+5. Now with beta art and unused **L O R E**
 
 
-Features: 
+## Credits:
+### Deck Editor
+  Website development: december
+  Server code and data handling: Blu
+  Sprites and images: Glass
 
-    -> All deck codes generated on the website is fully usable in game 
-
-    -> The deck editor supports local save and server save, for when you just want to ediit without getting a deck code 
-
-    -> Fully functional card and imagge catalog, sort and filterable b different categories 
-
-    -> A creit section 
-
-    -> Now with beta art and unused L O R E
-
-
-Credits:
-
-
-    Website side: 
+  ### Quantum Protocol
+  Game by Jkong
+  Character design by Hentie
+  Background art by various artists
   
-      -> Website development: 3dit0r 
-  
-      -> Server code and Data handling: Blu
-  
-      -> Sound effect: 3dit0r
-  
-      -> Sprites and images: Glass
-  
-  
-    Game side:
-  
-      -> Game by Jkong
-  
-      -> Character design by Hentie
-  
-      -> Background art by various artists
+  ### Special thanks to the Quantum Protocol Discord.  You guys are absolutely amazing!
 
-      
-  
-    Special thanks to the quantum protocol discord
+------------
 
 
-***This is a fan indie project, not associated with Jkong, All assets belong to their rightful owner***
+***This is a fan indie project, not associated with Jkong, all assets belong to their rightful owner***
