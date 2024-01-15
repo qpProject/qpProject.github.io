@@ -15,16 +15,16 @@
 
 ## Credits:
 ### Deck Editor
-  Website development: december
-  Server code and data handling: Blu
-  Sprites and images: Glass
+- Website development: december
+- Server code and data handling: Blu
+- Sprites and images: Glass
 
-  ### Quantum Protocol
-  Game by Jkong
-  Character design by Hentie
-  Background art by various artists
+### Quantum Protocol
+- Game by Jkong
+- Character design by Hentie
+- Background art by various artists
   
-  ### Special thanks to the Quantum Protocol Discord.  You guys are absolutely amazing!
+### Special thanks to the Quantum Protocol Discord.  You guys are absolutely amazing!
 
 ------------
 
