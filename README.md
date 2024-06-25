@@ -8,8 +8,8 @@
 ## Features: 
 1. All deck codes generated on the website is fully usable in game 
 2. The deck editor supports local save and server save, for when you just want to ediit without getting a deck code 
-3. Fully functional card and imagge catalog, sort and filterable b different categories 
-4. A creit section 
+3. Fully functional card and imagge catalog, sort and filterable by different categories 
+4. A credit section 
 5. Now with beta art and unused **L O R E**
 
 
