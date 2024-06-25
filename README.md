@@ -15,8 +15,8 @@
 
 ## Credits:
 ### Deck Editor
-- Website development: december
-- Server code and data handling: Blu
+- Website development: December
+- Jkong's server handler code and data: Blu
 - Sprites and images: Glass
 
 ### Quantum Protocol
